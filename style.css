@@ -1,12 +1,13 @@
 body{
     background-color: hsl(212, 45%, 89%);
+    font-family: Outfit, sans-serif;
+    color: hsl(0, 0%, 20%);
     text-align: center;
     min-height: 100vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-
 }
 
 .container{
@@ -31,7 +32,6 @@ img{
 
 .description{
     font-size: 15px;
-    font-weight: 400;
 }
 
 .attribution { 
